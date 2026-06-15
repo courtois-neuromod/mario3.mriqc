@@ -1,0 +1,1 @@
+a8661972-2cff-49ff-a3d1-26d2f7d2d77c autoenable=true bucket=cneuromod.mario3.mriqc chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.mario3.mriqc port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1781544081s
